@@ -2,7 +2,8 @@
 ## PT INDOFOOD SUKSES MAKMUR TBK (INDF)
 
 **Tanggal Rapat**: 3 Desember 2025  
-**Periode Laporan**: Tahun Buku 2023  
+**Periode Laporan**: Q3 2025 (Januari - September 2025)  
+**Sumber Data**: Laporan Keuangan Konsolidasian Interim 30 September 2025  
 **Lokasi**: Indofood Tower, Jakarta
 
 ---
@@ -11,18 +12,22 @@
 
 PT Indofood Sukses Makmur Tbk adalah perusahaan holding "Total Food Solutions" terbesar di Indonesia yang bergerak dari hulu ke hilir dalam industri makanan. Perusahaan didirikan pada 14 Agustus 1990 dan terdaftar di Bursa Efek Indonesia dengan kode INDF.
 
-### Data Keuangan Utama (2023):
-| Indikator | Nilai (Rp Triliun) |
-|-----------|-------------------|
-| Total Aset | 186,5 |
-| Total Ekuitas | 100,4 |
-| Total Liabilitas | 86,1 (estimasi) |
-| Pendapatan | 111,7 |
-| Laba Bersih | 8,1 |
+### Data Keuangan Utama Q3 2025 (dalam Jutaan Rupiah):
+
+| Indikator | 30 Sep 2025 | 31 Des 2024 | Perubahan |
+|-----------|-------------|-------------|-----------|
+| **Total Aset** | 214.465.851 | 201.713.313 | +6,32% ⬆️ |
+| **Total Liabilitas** | 98.284.030 | 92.722.030 | +6,00% ⬆️ |
+| **Total Ekuitas** | 116.181.821 | 108.991.283 | +6,60% ⬆️ |
+| **Penjualan Neto (9M)** | 90.981.090 | 86.943.780* | +4,65% ⬆️ |
+| **Laba Periode Berjalan (9M)** | 11.368.279 | 12.284.996* | -7,46% ⬇️ |
+
+*Perbandingan dengan periode yang sama tahun 2024
 
 ### Struktur Kepemilikan:
 - **First Pacific Investment Management Limited**: 50,07%
 - **Publik**: 49,93%
+- **Modal Ditempatkan**: 8.780.426.500 saham @ Rp 100
 
 ---
 
@@ -32,36 +37,63 @@ PT Indofood Sukses Makmur Tbk adalah perusahaan holding "Total Food Solutions" t
 
 Saudara-saudari peserta rapat yang terhormat,
 
-Sebagai CFO PT Indofood Sukses Makmur Tbk, saya memimpin rapat evaluasi kinerja keuangan dan analisis risiko perusahaan untuk tahun buku 2023.
+Sebagai CFO PT Indofood Sukses Makmur Tbk, saya memimpin rapat evaluasi kinerja keuangan dan analisis risiko perusahaan berdasarkan **Laporan Keuangan Konsolidasian Interim Q3 2025** (tidak diaudit).
 
-### Ringkasan Kinerja Keuangan:
+### A. Posisi Keuangan Konsolidasi (30 September 2025):
 
-**A. Posisi Keuangan Konsolidasi:**
+| Komponen | Nilai (Rp Juta) | Keterangan |
+|----------|-----------------|------------|
+| **ASET** | | |
+| Total Aset Lancar | 90.651.343 | Naik dari 79.765.476 |
+| Total Aset Tidak Lancar | 123.814.508 | Naik dari 121.947.837 |
+| **TOTAL ASET** | **214.465.851** | **+6,32% YoY** |
+| | | |
+| **LIABILITAS** | | |
+| Total Liabilitas Jangka Pendek | 41.097.335 | Naik dari 37.094.061 |
+| Total Liabilitas Jangka Panjang | 57.186.695 | Naik dari 55.627.969 |
+| **TOTAL LIABILITAS** | **98.284.030** | **+6,00% YoY** |
+| | | |
+| **EKUITAS** | | |
+| Ekuitas Pemilik Entitas Induk | 70.261.988 | Naik dari 65.113.504 |
+| Kepentingan Nonpengendali | 45.919.833 | Naik dari 43.877.779 |
+| **TOTAL EKUITAS** | **116.181.821** | **+6,60% YoY** |
 
-| Komponen | 2023 | Keterangan |
-|----------|------|------------|
-| Total Aset | Rp 186,5 T | Naik dari tahun sebelumnya |
-| Total Ekuitas | Rp 100,4 T | Equity Ratio: 53,8% |
-| Total Liabilitas | Rp 86,1 T (est.) | Debt Ratio: 46,2% |
-| Pendapatan | Rp 111,7 T | Pertumbuhan positif |
-| Laba Bersih | Rp 8,1 T | Net Profit Margin: 7,25% |
+### B. Kinerja Laba Rugi (9 Bulan - Jan-Sep 2025):
 
-**B. Rasio Keuangan Kunci:**
+| Komponen | 9M 2025 (Rp Juta) | 9M 2024 (Rp Juta) | Perubahan |
+|----------|-------------------|-------------------|-----------|
+| Penjualan Neto | 90.981.090 | 86.943.780 | **+4,65%** ⬆️ |
+| Beban Pokok Penjualan | (60.720.121) | (57.249.947) | +6,06% |
+| **Laba Bruto** | **30.260.969** | **29.693.833** | **+1,91%** ⬆️ |
+| Beban Penjualan & Distribusi | (9.348.140) | (9.308.671) | +0,42% |
+| Beban Umum & Administrasi | (3.880.396) | (4.113.150) | -5,66% ✅ |
+| **Laba Usaha** | **18.097.708** | **16.093.656** | **+12,46%** ⬆️ |
+| Penghasilan Keuangan | 1.323.438 | 2.586.805 | -48,84% ⚠️ |
+| Beban Keuangan | (4.550.531) | (2.790.470) | +63,07% ⚠️ |
+| **Laba Sebelum Pajak** | **14.698.342** | **15.847.179** | **-7,25%** ⬇️ |
+| Beban Pajak Penghasilan | (3.330.063) | (3.562.183) | -6,52% |
+| **LABA PERIODE BERJALAN** | **11.368.279** | **12.284.996** | **-7,46%** ⬇️ |
 
-| Rasio | Nilai | Status |
-|-------|-------|--------|
-| Debt to Equity Ratio (DER) | 0,86x | **SEHAT** |
-| Equity Ratio | 53,8% | **KUAT** |
-| Return on Assets (ROA) | 4,34% | **MODERAT** |
-| Return on Equity (ROE) | 8,07% | **BAIK** |
-| Net Profit Margin | 7,25% | **SEHAT** |
+### C. Rasio Keuangan Kunci Q3 2025:
 
-**C. Keputusan Strategis yang Dibutuhkan:**
+| Rasio | Nilai | Status | Keterangan |
+|-------|-------|--------|------------|
+| **Debt to Equity Ratio (DER)** | 0,85x | ✅ **SEHAT** | Liabilitas / Ekuitas |
+| **Equity Ratio** | 54,2% | ✅ **KUAT** | Ekuitas / Total Aset |
+| **Debt Ratio** | 45,8% | ✅ **MODERAT** | Liabilitas / Total Aset |
+| **Current Ratio** | 2,21x | ✅ **SANGAT BAIK** | Aset Lancar / Liab. Jk Pendek |
+| **Gross Profit Margin** | 33,3% | ✅ **BAIK** | Laba Bruto / Penjualan |
+| **Operating Profit Margin** | 19,9% | ✅ **BAIK** | Laba Usaha / Penjualan |
+| **Net Profit Margin** | 12,5% | ✅ **BAIK** | Laba Bersih / Penjualan |
+| **EPS (9M)** | Rp 898 | - | Laba per Saham Dasar |
 
-1. ✅ Mempertahankan kebijakan leverage yang konservatif
-2. ✅ Evaluasi ekspansi bisnis internasional melalui Pinehill Company
-3. ✅ Optimasi struktur pendanaan antara utang dan ekuitas
-4. ✅ Review kebijakan dividen untuk menjaga keseimbangan shareholder value
+### D. Keputusan Strategis yang Dibutuhkan:
+
+1. ✅ Mempertahankan rasio leverage yang konservatif (DER 0,85x)
+2. ⚠️ Evaluasi peningkatan beban keuangan (+63%) akibat utang baru
+3. ✅ Optimasi efisiensi biaya administrasi (turun 5,66%)
+4. ⚠️ Monitor penurunan penghasilan keuangan (-48,84%)
+5. ✅ Review kinerja per segmen bisnis
 
 ---
 
@@ -77,12 +109,12 @@ Sebagai CFO PT Indofood Sukses Makmur Tbk, saya memimpin rapat evaluasi kinerja 
 | Risiko produksi | **RENDAH** | Multiple production facilities |
 
 #### 2. **Risiko Keuangan**
-| Jenis Risiko | Level | Mitigasi |
-|--------------|-------|----------|
-| Risiko nilai tukar (FX Risk) | **TINGGI** | Natural hedging, forward contracts |
-| Risiko suku bunga | **SEDANG** | Fixed-rate debt portfolio |
-| Risiko kredit | **SEDANG** | Credit insurance, diversifikasi debitur |
-| Risiko likuiditas | **RENDAH** | Cadangan kas yang memadai |
+| Jenis Risiko | Level | Mitigasi | Data Aktual Q3 2025 |
+|--------------|-------|----------|---------------------|
+| Risiko nilai tukar (FX Risk) | **TINGGI** | Natural hedging | Aset USD: $1,046 juta |
+| Risiko suku bunga | **SEDANG** | Fixed-rate debt | Beban keuangan naik 63% |
+| Risiko kredit | **SEDANG** | Credit insurance | Piutang neto: Rp 10,3 T |
+| Risiko likuiditas | **RENDAH** | Kas Rp 42,9 T | Current Ratio: 2,21x |
 
 #### 3. **Risiko Strategis & Eksternal**
 | Jenis Risiko | Level | Mitigasi |
@@ -91,397 +123,383 @@ Sebagai CFO PT Indofood Sukses Makmur Tbk, saya memimpin rapat evaluasi kinerja 
 | Persaingan industri | **TINGGI** | Inovasi produk, brand loyalty |
 | Isu ESG & lingkungan | **TINGGI** | Sertifikasi sustainable palm oil |
 
-### B. Eksposur Risiko Pembiayaan:
+### B. Eksposur Risiko Pembiayaan (Data Aktual Q3 2025):
 
-**Struktur Utang Konsolidasi:**
+**Struktur Liabilitas Konsolidasi:**
 
 ```
-Total Liabilitas: ~Rp 86,1 Triliun
+TOTAL LIABILITAS: Rp 98.284.030 Juta (Rp 98,3 Triliun)
 
-├── Utang Jangka Pendek
-│   ├── Utang usaha kepada pihak ketiga
-│   ├── Utang bank jangka pendek
-│   └── Liabilitas jatuh tempo < 1 tahun
+├── LIABILITAS JANGKA PENDEK: Rp 41.097.335 Juta
+│   ├── Utang bank jk pendek, cerukan & trust receipts : Rp 22.782.913
+│   ├── Utang usaha - pihak ketiga                     : Rp  5.514.049
+│   ├── Utang usaha - pihak berelasi                   : Rp    160.237
+│   ├── Utang lain-lain                                : Rp  1.833.230
+│   ├── Beban akrual                                   : Rp  4.631.702
+│   ├── Liabilitas imbalan kerja karyawan              : Rp  2.145.056
+│   ├── Utang pajak                                    : Rp  2.035.096
+│   ├── Liabilitas sewa                                : Rp    259.955
+│   └── Utang bank jk panjang jatuh tempo              : Rp  1.735.097
 │
-└── Utang Jangka Panjang
-    ├── Obligasi (Bonds)
-    ├── Utang bank jangka panjang
-    ├── Utang kepada pihak berelasi (luar negeri)
-    └── Liabilitas sewa
+└── LIABILITAS JANGKA PANJANG: Rp 57.186.695 Juta
+    ├── Utang bank jangka panjang                      : Rp  5.538.055
+    ├── Utang obligasi                                 : Rp 45.650.695
+    ├── Utang lainnya                                  : Rp      8.753
+    ├── Liabilitas sewa                                : Rp    156.779
+    ├── Liabilitas pajak tangguhan                     : Rp    867.298
+    ├── Utang kepada pihak berelasi                    : Rp    135.799
+    ├── Liabilitas imbalan kerja karyawan              : Rp  4.713.399
+    └── Liabilitas estimasi pembongkaran aset          : Rp    115.917
 ```
 
-### C. Potensi Pelanggaran & Red Flags:
+### C. Eksposur Mata Uang Asing (30 Sep 2025):
+
+| Mata Uang | Jumlah (Full Amount) | Setara Rp Juta |
+|-----------|---------------------|----------------|
+| **ASET** | | |
+| Kas & Setara Kas - USD | $1.046.412.148 | 17.454.155 |
+| Kas & Setara Kas - EUR | €27.742.912 | 542.670 |
+| **LIABILITAS** | | |
+| Utang dalam USD | Signifikan | Signifikan |
+
+### D. Potensi Pelanggaran & Red Flags:
 
 | Area | Status | Catatan |
 |------|--------|---------|
-| Kepatuhan covenant utang | ✅ AMAN | DER < 1x, coverage ratio memadai |
-| Tax compliance | ✅ PATUH | Pembayaran pajak tepat waktu |
-| Isu tenaga kerja | ⚠️ MONITOR | 91.615 karyawan, perlu monitoring kepatuhan |
-| Isu lingkungan (CPO) | ⚠️ MONITOR | Kehilangan kontrak PepsiCo (2019) karena isu palm oil |
-
-### D. Risiko dari Hubungan dengan Pihak Luar Negeri:
-
-**Transaksi dengan Pihak Berelasi Internasional:**
-
-| Entitas | Negara | Jenis Transaksi | Risiko |
-|---------|--------|-----------------|--------|
-| First Pacific | Hong Kong | Pendanaan, dividend | FX risk, regulatory |
-| Pinehill Arabia Food | Saudi Arabia | Operasional | Geopolitik |
-| Indoadriatic Industry | Serbia | Manufaktur | Regulasi EU |
-| Salim Wazaran Group | Multi-negara | Distribusi | Country risk |
+| Kepatuhan covenant utang | ✅ AMAN | DER 0,85x < batas covenant |
+| Tax compliance | ✅ PATUH | Utang pajak Rp 2,04 T (normal) |
+| Beban keuangan | ⚠️ MONITOR | Naik 63% YoY - perlu perhatian |
+| Isu lingkungan (CPO) | ⚠️ MONITOR | Segmen agribisnis perlu pengawasan |
 
 ---
 
 ## 3. TREASURY/FINANCE OFFICER - Analisis Arus Kas & Likuiditas
 
-### A. Posisi Likuiditas:
+### A. Posisi Likuiditas (30 September 2025):
+
+| Komponen | Nilai (Rp Juta) | Keterangan |
+|----------|-----------------|------------|
+| Kas dan Setara Kas | 42.936.457 | Naik dari 38.710.056 |
+| Investasi Jangka Pendek | 9.826.613 | Naik dari 9.514.928 |
+| **Total Kas + Investasi Jk Pendek** | **52.763.070** | **Likuiditas sangat kuat** |
 
 **Analisis Rasio Likuiditas:**
 
-| Rasio | Formula | Estimasi Nilai | Status |
-|-------|---------|----------------|--------|
-| Current Ratio | Current Assets / Current Liabilities | ~1,5x | **SEHAT** |
-| Quick Ratio | (CA - Inventory) / CL | ~0,9x | **ADEQUATE** |
-| Cash Ratio | Cash / Current Liabilities | ~0,3x | **MODERAT** |
+| Rasio | Formula | Nilai | Status |
+|-------|---------|-------|--------|
+| Current Ratio | Aset Lancar / Liab. Jk Pendek | **2,21x** | ✅ SANGAT BAIK |
+| Quick Ratio | (AL - Persediaan) / LJP | **1,70x** | ✅ BAIK |
+| Cash Ratio | Kas / Liab. Jk Pendek | **1,04x** | ✅ SANGAT BAIK |
 
-### B. Analisis Arus Kas:
+### B. Analisis Arus Kas (9 Bulan 2025):
 
 ```
-PROYEKSI ARUS KAS (Estimasi berdasarkan profil industri)
+LAPORAN ARUS KAS KONSOLIDASIAN INTERIM (Rp Juta)
+Periode: Januari - September 2025
 
-┌─────────────────────────────────────────────────────────┐
-│ ARUS KAS DARI OPERASI                                   │
-├─────────────────────────────────────────────────────────┤
-│ Laba bersih                        : Rp  8,1 T          │
-│ Depresiasi & Amortisasi            : Rp  5,0 T (est)    │
-│ Perubahan modal kerja              : Rp (2,0) T (est)   │
-│ ─────────────────────────────────────────────────────   │
-│ Kas dari Operasi                   : Rp 11,1 T (est)    │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│ ARUS KAS DARI AKTIVITAS OPERASI                                     │
+├─────────────────────────────────────────────────────────────────────┤
+│ Penerimaan kas dari pelanggan                    :    88.977.435    │
+│ Pembayaran kas kepada pemasok                    :   (48.461.729)   │
+│ Pembayaran untuk beban produksi & operasi        :   (17.374.329)   │
+│ Pembayaran kepada karyawan                       :    (7.934.305)   │
+│ ─────────────────────────────────────────────────────────────────   │
+│ Kas yang diperoleh dari operasi                  :    15.207.072    │
+│ Penerimaan penghasilan bunga                     :     1.309.421    │
+│ Pembayaran pajak - neto                          :    (3.860.547)   │
+│ Pembayaran beban keuangan                        :    (2.538.828)   │
+│ Penerimaan lainnya - neto                        :       242.793    │
+│ ─────────────────────────────────────────────────────────────────   │
+│ KAS NETO DARI AKTIVITAS OPERASI                  :    10.359.911 ✅ │
+└─────────────────────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────────┐
-│ ARUS KAS DARI INVESTASI                                 │
-├─────────────────────────────────────────────────────────┤
-│ Capex (maintenance & expansion)    : Rp (6,0) T (est)   │
-│ Akuisisi/investasi                 : Rp (1,0) T (est)   │
-│ ─────────────────────────────────────────────────────   │
-│ Kas untuk Investasi                : Rp (7,0) T (est)   │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│ ARUS KAS DARI AKTIVITAS INVESTASI                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│ Penerimaan dari penjualan aset tetap             :        24.664    │
+│ Akuisisi dari kepentingan nonpengendali          :       (36.640)   │
+│ Penambahan aset biologis                         :      (204.129)   │
+│ Penambahan investasi jangka pendek               :      (311.684)   │
+│ Penambahan aset tetap & tanaman perkebunan       :    (4.569.890)   │
+│ ─────────────────────────────────────────────────────────────────   │
+│ KAS NETO UNTUK AKTIVITAS INVESTASI               :    (5.097.679) ⚠️│
+└─────────────────────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────────┐
-│ ARUS KAS DARI PENDANAAN                                 │
-├─────────────────────────────────────────────────────────┤
-│ Pembayaran utang                   : Rp (3,0) T (est)   │
-│ Pembayaran dividen                 : Rp (2,5) T (est)   │
-│ Penerimaan pinjaman baru           : Rp  2,0 T (est)    │
-│ ─────────────────────────────────────────────────────   │
-│ Kas dari Pendanaan                 : Rp (3,5) T (est)   │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│ ARUS KAS DARI AKTIVITAS PENDANAAN                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│ Penerimaan dari utang bank jangka pendek         :    22.268.185    │
+│ Penerimaan dari utang bank jangka panjang        :     4.503.840    │
+│ (Pembayaran utang & dividen - estimasi)          :   (27.XXX.XXX)   │
+│ ─────────────────────────────────────────────────────────────────   │
+│ KAS NETO DARI/UNTUK AKTIVITAS PENDANAAN          :     (X.XXX.XXX)  │
+└─────────────────────────────────────────────────────────────────────┘
 
-Free Cash Flow (Est.)                : Rp 4,1 T
+PERUBAHAN BERSIH KAS                               :     4.226.401
+Kas awal periode                                   :    38.710.056
+KAS AKHIR PERIODE                                  :    42.936.457 ✅
 ```
 
-### C. Kebutuhan Dana & Sumber Pendanaan:
+### C. Analisis Kualitas Arus Kas:
 
-**Kebutuhan Dana 2024-2025:**
+| Metrik | 9M 2025 | 9M 2024 | Analisis |
+|--------|---------|---------|----------|
+| Operating Cash Flow | 10.359.911 | 10.341.979 | ✅ Stabil |
+| Investing Cash Flow | (5.097.679) | (5.870.135) | ✅ Lebih efisien |
+| Kas dari Operasi/Laba | 91% | 84% | ✅ Kualitas laba baik |
 
-| Keperluan | Estimasi (Rp T) | Prioritas |
-|-----------|-----------------|-----------|
-| Capex rutin (maintenance) | 4,0 | TINGGI |
-| Ekspansi kapasitas produksi | 3,0 | SEDANG |
-| Ekspansi internasional (Pinehill) | 2,0 | SEDANG |
-| Modal kerja | 2,5 | TINGGI |
-| Pembayaran utang jatuh tempo | 5,0 | TINGGI |
-| **TOTAL KEBUTUHAN** | **16,5** | |
+### D. Kebutuhan Dana & Sumber Pendanaan:
 
 **Sumber Pendanaan Tersedia:**
 
-| Sumber | Kapasitas (Rp T) | Status |
+| Sumber | Jumlah (Rp Juta) | Status |
 |--------|------------------|--------|
-| Kas internal (FCF) | 4,0 | ✅ Tersedia |
-| Fasilitas kredit bank (uncommitted) | 8,0 | ✅ Tersedia |
-| Potensi penerbitan obligasi | 5,0 | ⏳ Jika dibutuhkan |
-| Rights issue/ekuitas | 3,0 | ⏳ Opsi terakhir |
-| **TOTAL KAPASITAS** | **20,0** | **SURPLUS** |
-
-### D. Rekomendasi Manajemen Likuiditas:
-
-1. **Jangka Pendek (< 1 tahun)**
-   - Pertahankan cash buffer minimum Rp 5 triliun
-   - Optimasi siklus konversi kas (reduce DSO, extend DPO)
-   - Aktifkan committed credit facility untuk backup
-
-2. **Jangka Menengah (1-3 tahun)**
-   - Refinancing utang dengan tenor lebih panjang
-   - Diversifikasi sumber pendanaan (obligasi vs bank loan)
-   - Pertimbangkan green bond untuk proyek sustainability
+| Kas dan Setara Kas | 42.936.457 | ✅ Tersedia |
+| Investasi Jangka Pendek | 9.826.613 | ✅ Tersedia |
+| Fasilitas Kredit Bank (uncommitted) | ~20.000.000 | ✅ Tersedia |
+| Kapasitas Penerbitan Obligasi | ~10.000.000 | ⏳ Jika dibutuhkan |
+| **TOTAL KAPASITAS** | **~82.000.000+** | **SANGAT KUAT** |
 
 ---
 
 ## 4. INVESTMENT ANALYST - Risiko Investasi & Cost of Capital
 
-### A. Analisis Investasi Perusahaan:
+### A. Kinerja Per Segmen Bisnis (Q3 2025):
 
-**Portfolio Anak Perusahaan Utama:**
+**Aset per Segmen (30 Sep 2025 - Rp Juta):**
 
-| Entitas | Kepemilikan | Sektor | Nilai Investasi | Status |
-|---------|-------------|--------|-----------------|--------|
-| PT Indofood CBP Sukses Makmur Tbk (ICBP) | ~80% | Consumer Goods | Rp 80+ T | ⭐ UTAMA |
-| PT Salim Ivomas Pratama Tbk (SIMP) | ~60% | Agribisnis (CPO) | Rp 20+ T | 🔶 MODERAT |
-| PT Bogasari Flour Mills | 100% | Tepung Terigu | Rp 15+ T | ⭐ STABIL |
-| IndoAgri Resources Ltd (SGX) | ~70% | Perkebunan | Rp 10+ T | 🔶 VOLATILE |
-| Pinehill Company Ltd | 100% | Ekspansi Internasional | Rp 10+ T | 📈 GROWTH |
-| PT Indomarco Adi Prima | 100% | Distribusi | Rp 5+ T | ⭐ STABIL |
+| Segmen | Aset Segmen | Investasi Jk Panjang | Total Aset | % Total |
+|--------|-------------|---------------------|------------|---------|
+| Produk Konsumen Bermerek (ICBP) | 125.993.368 | 4.074.788 | 130.068.156 | 60,6% |
+| Bogasari (Tepung) | 35.693.212 | 1.712.043 | 37.405.255 | 17,4% |
+| Agribisnis | 37.882.577 | 1.059.921 | 38.942.498 | 18,2% |
+| Distribusi | 15.469.484 | - | 15.469.484 | 7,2% |
+| Eliminasi | (7.419.542) | - | (7.419.542) | -3,4% |
+| **TOTAL** | **207.619.099** | **6.846.752** | **214.465.851** | **100%** |
 
-### B. Risiko Investasi per Segmen:
+**Liabilitas per Segmen (30 Sep 2025 - Rp Juta):**
 
-#### 1. **Consumer Branded Products (ICBP) - RISIKO RENDAH**
-```
-Revenue contribution: ~50% dari total
-Risiko utama: Persaingan, harga bahan baku
-ROI: 15-20%
-Outlook: POSITIF - produk essential, market leader
-```
+| Segmen | Liabilitas Segmen | % Total |
+|--------|-------------------|---------|
+| Produk Konsumen Bermerek | 60.945.402 | 62,0% |
+| Bogasari | 18.869.940 | 19,2% |
+| Agribisnis | 13.092.422 | 13,3% |
+| Distribusi | 12.744.308 | 13,0% |
+| Eliminasi | (7.368.042) | -7,5% |
+| **TOTAL** | **98.284.030** | **100%** |
 
-#### 2. **Bogasari (Tepung) - RISIKO SEDANG**
-```
-Revenue contribution: ~20% dari total
-Risiko utama: Volatilitas harga gandum, FX risk (import)
-ROI: 10-15%
-Outlook: STABIL - captive market, integrasi vertikal
-```
+### B. Penjualan per Segmen Geografis (9M 2025):
 
-#### 3. **Agribisnis (SIMP/IndoAgri) - RISIKO TINGGI**
-```
-Revenue contribution: ~25% dari total
-Risiko utama: Harga CPO volatile, isu ESG, cuaca
-ROI: 5-15% (volatile)
-Outlook: HATI-HATI - tekanan harga, sustainability concern
-```
+| Negara/Wilayah | Penjualan (Rp Juta) | % Total |
+|----------------|---------------------|---------|
+| Indonesia | 70.677.790 | 77,7% |
+| Asia dan Afrika | 18.251.207 | 20,1% |
+| Lain-lain | 2.052.093 | 2,3% |
+| **TOTAL** | **90.981.090** | **100%** |
 
-#### 4. **Distribusi & Lainnya - RISIKO RENDAH**
-```
-Revenue contribution: ~5% dari total
-Risiko utama: Operasional, kompetisi
-ROI: 8-12%
-Outlook: STABIL - synergy dengan grup
-```
+### C. Aset Tidak Lancar per Geografis:
 
-### C. Weighted Average Cost of Capital (WACC):
+| Lokasi | 30 Sep 2025 (Rp Juta) | 31 Des 2024 (Rp Juta) | Perubahan |
+|--------|----------------------|----------------------|-----------|
+| Negara-negara Asing | 61.284.984 | 60.880.501 | +0,66% |
+| Indonesia | 49.955.574 | 47.436.387 | +5,31% |
+| **TOTAL** | **111.240.558** | **108.316.888** | **+2,70%** |
 
-**Perhitungan WACC:**
+### D. Weighted Average Cost of Capital (WACC):
+
+**Perhitungan WACC (Updated Q3 2025):**
 
 ```
 Asumsi:
-├── Risk-free rate (SBI)     : 6,00%
-├── Market risk premium      : 6,50%
-├── Beta (INDF)              : 0,85
-├── Cost of Debt (pre-tax)   : 8,00%
-├── Tax rate                 : 22%
-├── Debt ratio               : 46%
-└── Equity ratio             : 54%
+├── Risk-free rate (SBI 7-day)       : 6,00%
+├── Market risk premium (Indonesia)  : 6,50%
+├── Beta (INDF)                      : 0,85
+├── Cost of Debt (weighted avg)      : 8,50% (naik akibat beban keuangan)
+├── Tax rate                         : 22%
+├── Debt ratio (D/V)                 : 45,8%
+└── Equity ratio (E/V)               : 54,2%
 
 Kalkulasi:
-┌─────────────────────────────────────────────────────────┐
-│ Cost of Equity (Ke)                                     │
-│ = Rf + β × (Rm - Rf)                                    │
-│ = 6% + 0,85 × 6,5%                                      │
-│ = 11,53%                                                │
-├─────────────────────────────────────────────────────────┤
-│ Cost of Debt after tax (Kd)                             │
-│ = 8% × (1 - 22%)                                        │
-│ = 6,24%                                                 │
-├─────────────────────────────────────────────────────────┤
-│ WACC = (E/V × Ke) + (D/V × Kd)                          │
-│      = (54% × 11,53%) + (46% × 6,24%)                   │
-│      = 6,23% + 2,87%                                    │
-│      = 9,10%                                            │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│ Cost of Equity (Ke)                                                 │
+│ = Rf + β × (Rm - Rf)                                                │
+│ = 6% + 0,85 × 6,5%                                                  │
+│ = 11,53%                                                            │
+├─────────────────────────────────────────────────────────────────────┤
+│ Cost of Debt after tax (Kd)                                         │
+│ = 8,5% × (1 - 22%)                                                  │
+│ = 6,63%                                                             │
+├─────────────────────────────────────────────────────────────────────┤
+│ WACC = (E/V × Ke) + (D/V × Kd)                                      │
+│      = (54,2% × 11,53%) + (45,8% × 6,63%)                           │
+│      = 6,25% + 3,04%                                                │
+│      = 9,29%                                                        │
+└─────────────────────────────────────────────────────────────────────┘
 
-WACC PT Indofood: 9,10%
+WACC PT Indofood Q3 2025: 9,29%
 ```
 
-### D. Evaluasi Keputusan Investasi:
+### E. Evaluasi Return on Investment:
 
-**Kriteria Investasi:**
-
-| Proyek | IRR Target | Payback Period Max | NPV Minimum |
-|--------|------------|-------------------|-------------|
-| Ekspansi existing | > 12% | 5 tahun | > Rp 500 M |
-| Akuisisi | > 15% | 7 tahun | > Rp 1 T |
-| New ventures | > 18% | 5 tahun | > Rp 300 M |
-
-**Evaluasi Investasi Terkini:**
-
-| Investasi | IRR Est. | Status vs WACC | Rekomendasi |
-|-----------|----------|----------------|-------------|
-| Ekspansi Pinehill (Timur Tengah) | 14% | ✅ > WACC | LANJUTKAN |
-| Modernisasi pabrik ICBP | 16% | ✅ > WACC | PRIORITAS |
-| Ekspansi perkebunan sawit | 8% | ⚠️ < WACC | TUNDA/REVIEW |
-| Akuisisi baru (potensial) | TBD | TBD | ANALISIS LEBIH LANJUT |
+| Metrik | Nilai | vs WACC | Status |
+|--------|-------|---------|--------|
+| ROA (Annualized) | 7,1% | < 9,29% | ⚠️ Di bawah WACC |
+| ROE (Annualized) | 13,0% | > 9,29% | ✅ Di atas WACC |
+| ROIC (Est.) | 10,5% | > 9,29% | ✅ Value Creating |
 
 ---
 
 ## 5. CREDIT & FUNDING OFFICER - Analisis Risiko Pembiayaan & Utang
 
-### A. Struktur Utang Konsolidasi:
+### A. Struktur Utang Berbunga (30 September 2025):
 
-**Profil Utang berdasarkan Jatuh Tempo:**
+**Detail Utang Berbunga (Rp Juta):**
+
+| Jenis Utang | Jumlah | Jatuh Tempo | Keterangan |
+|-------------|--------|-------------|------------|
+| **JANGKA PENDEK** | | | |
+| Utang bank jk pendek, cerukan, trust receipts | 22.782.913 | < 1 tahun | Working capital |
+| Utang bank jk panjang - jatuh tempo | 1.735.097 | < 1 tahun | Current portion |
+| Liabilitas sewa jk pendek | 259.955 | < 1 tahun | Lease |
+| **Sub-total Jk Pendek** | **24.777.965** | | |
+| | | | |
+| **JANGKA PANJANG** | | | |
+| Utang bank jangka panjang | 5.538.055 | > 1 tahun | Term loan |
+| Utang obligasi | 45.650.695 | > 1 tahun | Bonds |
+| Utang lainnya | 8.753 | > 1 tahun | Other |
+| Liabilitas sewa jk panjang | 156.779 | > 1 tahun | Lease |
+| **Sub-total Jk Panjang** | **51.354.282** | | |
+| | | | |
+| **TOTAL UTANG BERBUNGA** | **76.132.247** | | |
+
+### B. Profil Jatuh Tempo Utang:
 
 ```
-TOTAL LIABILITAS: ~Rp 86,1 Triliun
+MATURITY PROFILE UTANG BERBUNGA (Rp Triliun)
 
-┌─────────────────────────────────────────────────────────┐
-│ UTANG JANGKA PENDEK (< 1 TAHUN): ~Rp 35 T (est)        │
-├─────────────────────────────────────────────────────────┤
-│ ├── Utang usaha (trade payables)      : Rp 12 T        │
-│ ├── Utang bank jangka pendek          : Rp  8 T        │
-│ ├── Bagian lancar utang jk panjang    : Rp  5 T        │
-│ ├── Utang pajak                       : Rp  3 T        │
-│ ├── Beban akrual & liabilitas lain    : Rp  7 T        │
-└─────────────────────────────────────────────────────────┘
+< 1 Tahun  : ██████████████████████████████  Rp 24,8 T (32,5%)
+1-3 Tahun  : ████████████████████████████████████  Rp 30,0 T (est.)
+3-5 Tahun  : ██████████████████  Rp 15,0 T (est.)
+> 5 Tahun  : ████████  Rp 6,3 T (est.)
 
-┌─────────────────────────────────────────────────────────┐
-│ UTANG JANGKA PANJANG (> 1 TAHUN): ~Rp 51 T (est)       │
-├─────────────────────────────────────────────────────────┤
-│ ├── Obligasi (bonds)                  : Rp 15 T        │
-│ ├── Utang bank jangka panjang         : Rp 20 T        │
-│ ├── Liabilitas pajak tangguhan        : Rp  5 T        │
-│ ├── Liabilitas imbalan kerja          : Rp  6 T        │
-│ ├── Liabilitas sewa                   : Rp  3 T        │
-│ └── Liabilitas lain-lain              : Rp  2 T        │
-└─────────────────────────────────────────────────────────┘
+TOTAL UTANG BERBUNGA: Rp 76,1 Triliun
 ```
 
-### B. Sumber Pendanaan Eksternal:
+### C. Obligasi yang Beredar (Rp 45,65 Triliun):
 
-#### 1. **Kredit/Pinjaman yang Diberikan kepada Pihak Lain (Piutang Afiliasi)**
+| Jenis Obligasi | Estimasi | Keterangan |
+|----------------|----------|------------|
+| Obligasi Rupiah | Rp 25-30 T | Investor domestik |
+| Obligasi USD (via SPV) | $1-1,5 miliar | Investor internasional |
+| Sukuk/Green Bond | Rp 5-10 T | ESG investors |
 
-| Pihak Penerima | Jenis | Jumlah (Est) | Status |
-|----------------|-------|--------------|--------|
-| Anak perusahaan (intercompany) | Pinjaman afiliasi | Rp 5-10 T | Lancar |
-| JV Partners | Trade financing | Rp 1-2 T | Lancar |
-| Pihak berelasi lainnya | Piutang usaha | Rp 2-3 T | Lancar |
+### D. Kredit yang Diterima dari Pihak Lain:
 
-#### 2. **Kredit/Pembiayaan yang Diterima dari Pihak Lain**
+| Kreditor | Jenis Fasilitas | Estimasi Jumlah | Status |
+|----------|-----------------|-----------------|--------|
+| Bank-bank Lokal (Mandiri, BCA, BNI, BRI) | Kredit modal kerja & Term Loan | Rp 20+ T | Aktif |
+| Bank Asing (HSBC, SCB, Citi) | USD Facility | $500 jt+ | Aktif |
+| Obligasi Domestik | Bonds | Rp 25-30 T | Aktif |
+| Obligasi Internasional | USD Bonds | $1-1,5 B | Aktif |
 
-| Kreditor | Jenis Fasilitas | Jumlah (Est) | Tenor | Bunga | Status |
-|----------|-----------------|--------------|-------|-------|--------|
-| Bank Mandiri | Kredit modal kerja | Rp 8 T | 1 tahun | 7-8% | Aktif |
-| Bank BCA | Term loan | Rp 6 T | 5 tahun | 7,5% | Aktif |
-| Bank BNI | Sindikasi | Rp 5 T | 7 tahun | 8% | Aktif |
-| Bank Asing (HSBC, SCB) | USD Loan | USD 300 jt | 5 tahun | SOFR+2% | Aktif |
-| Obligasi Rupiah | Bonds | Rp 10 T | 5-10 tahun | 8-9% | Aktif |
-| Obligasi USD (via SPV) | Bonds | USD 500 jt | 7-10 tahun | 5-6% | Aktif |
+### E. Pendanaan dari Pihak Berelasi:
 
-#### 3. **Investasi yang Ditempatkan/Diterima (Funding & Investment)**
+| Pihak Berelasi | Jenis | 30 Sep 2025 | 31 Des 2024 |
+|----------------|-------|-------------|-------------|
+| Utang kepada pihak berelasi | Pinjaman afiliasi | 135.799 | 434.143 |
+| **Total** | | **135.799** | **434.143** |
 
-**A. Investasi Ditempatkan ke Pihak Lain:**
+*Catatan: Utang kepada pihak berelasi turun signifikan 68,7%*
 
-| Investee | Jenis | Nilai | Tujuan |
-|----------|-------|-------|--------|
-| JV dengan Asahi (beverage) | Equity investment | Rp 2+ T | Ekspansi minuman |
-| Pinehill subsidiaries | Equity investment | Rp 10+ T | Ekspansi global |
-| Listed subsidiaries (ICBP, SIMP) | Portfolio investment | Rp 80+ T | Konsolidasi |
+### F. Debt Covenants Compliance Analysis:
 
-**B. Pendanaan yang Diterima dari Pihak Luar:**
+| Covenant | Batas Umum | Aktual Q3 2025 | Status | Headroom |
+|----------|------------|----------------|--------|----------|
+| Debt to Equity Ratio | < 1,5x - 2,0x | **0,85x** | ✅ AMAN | 77-135% |
+| Current Ratio | > 1,0x | **2,21x** | ✅ AMAN | 121% |
+| Interest Coverage Ratio | > 3,0x | **4,0x*** | ✅ AMAN | 33% |
+| Debt Service Coverage | > 1,2x | **1,5x*** | ✅ AMAN | 25% |
 
-| Sumber | Jenis | Nilai (Est) | Keterangan |
-|--------|-------|-------------|------------|
-| First Pacific (Hong Kong) | Equity dari induk | N/A | 50,07% ownership |
-| Investor institusi | Equity publik | 49,93% | Free float |
-| Bank Jepang (JBIC, dll) | Project finance | Rp 3-5 T | Untuk agribisnis |
-| IFC/DFIs | Green financing | Rp 1-2 T | Sustainability projects |
+*Estimasi berdasarkan data arus kas
 
-### C. Analisis Risiko Pembiayaan:
-
-**Matriks Risiko Pembiayaan:**
+### G. Analisis Risiko Pembiayaan:
 
 | Risiko | Probabilitas | Dampak | Severity | Mitigasi |
 |--------|--------------|--------|----------|----------|
-| Refinancing risk | RENDAH | TINGGI | 🟡 SEDANG | Diversifikasi tenor, maintain relationship |
-| Interest rate risk | SEDANG | SEDANG | 🟡 SEDANG | Fix rate portion > 60% |
-| FX risk (USD debt) | TINGGI | TINGGI | 🔴 TINGGI | Natural hedge, forward contracts |
-| Covenant breach | RENDAH | TINGGI | 🟡 SEDANG | Monitoring ketat, buffer ratio |
-| Credit rating downgrade | RENDAH | SEDANG | 🟢 RENDAH | Maintain leverage, profitability |
+| Refinancing risk (Rp 24,8T jatuh tempo) | SEDANG | TINGGI | 🟡 SEDANG | Kas Rp 42,9T tersedia |
+| Interest rate risk | TINGGI | SEDANG | 🟡 SEDANG | 63% kenaikan beban bunga |
+| FX risk (USD debt) | TINGGI | TINGGI | 🔴 TINGGI | Natural hedge + forward |
+| Covenant breach | RENDAH | TINGGI | 🟢 RENDAH | Headroom sangat besar |
+| Credit rating downgrade | RENDAH | SEDANG | 🟢 RENDAH | Leverage konservatif |
 
-### D. Debt Covenants Compliance:
+### H. Rekomendasi Manajemen Utang:
 
-| Covenant | Batas | Aktual (Est) | Status | Headroom |
-|----------|-------|--------------|--------|----------|
-| Debt to Equity Ratio | < 1,5x | 0,86x | ✅ AMAN | 74% |
-| Interest Coverage Ratio | > 3,0x | 5,0x (est) | ✅ AMAN | 67% |
-| Debt Service Coverage | > 1,2x | 1,8x (est) | ✅ AMAN | 50% |
-| Current Ratio | > 1,0x | 1,5x (est) | ✅ AMAN | 50% |
+1. **Refinancing Strategy:**
+   - Perpanjang tenor utang jk pendek (Rp 24,8 T) ke jk panjang
+   - Target: weighted average maturity > 4 tahun
+   - Pertimbangkan penerbitan obligasi baru saat suku bunga turun
 
-### E. Jadwal Pembayaran Utang (Maturity Profile):
-
-```
-MATURITY PROFILE UTANG (Estimasi)
-
-2024: ████████████░░░░░░░░░░░░░  Rp 12 T (refinancing needed)
-2025: ██████████░░░░░░░░░░░░░░░  Rp 10 T
-2026: ████████░░░░░░░░░░░░░░░░░  Rp  8 T
-2027: ██████████░░░░░░░░░░░░░░░  Rp 10 T
-2028+: █████████████████░░░░░░░░  Rp 18 T
-
-TOTAL: ~Rp 58 T (excluding trade payables & non-debt liabilities)
-```
-
-### F. Rekomendasi Manajemen Utang:
-
-1. **Strategi Refinancing 2024-2025:**
-   - Refinance Rp 12 T utang jatuh tempo 2024 dengan tenor 5-7 tahun
-   - Target: perpanjang weighted average maturity ke 4+ tahun
-   - Pertimbangkan green bond untuk diversifikasi investor base
-
-2. **Optimasi Struktur Modal:**
-   - Target DER optimal: 0,8x - 1,0x
-   - Ruang untuk leverage tambahan Rp 15-20 T jika diperlukan untuk akuisisi
+2. **Cost Optimization:**
+   - Review pricing dengan bank relationship
+   - Negosiasi ulang fasilitas kredit yang mahal
+   - Pertimbangkan prepayment utang berbunga tinggi
 
 3. **Hedging Strategy:**
-   - Hedge 70-80% USD exposure dengan forward contracts
-   - Maintain natural hedge melalui USD revenue dari ekspor
+   - Tingkatkan hedging USD exposure ke 80%
+   - Gunakan interest rate swap untuk utang floating rate
 
 ---
 
 ## KESIMPULAN & KEPUTUSAN RAPAT
 
-### A. Kesehatan Keuangan Keseluruhan:
+### A. Kesehatan Keuangan Keseluruhan Q3 2025:
 
 | Aspek | Score | Keterangan |
 |-------|-------|------------|
-| Profitabilitas | ⭐⭐⭐⭐ | NPM 7,25%, ROE 8,07% - solid |
-| Likuiditas | ⭐⭐⭐⭐ | CR 1,5x, cash position memadai |
-| Solvabilitas | ⭐⭐⭐⭐⭐ | DER 0,86x - sangat konservatif |
-| Efisiensi | ⭐⭐⭐ | Ada ruang improvement |
-| Growth | ⭐⭐⭐ | Pertumbuhan moderat |
+| Profitabilitas | ⭐⭐⭐⭐ | GPM 33,3%, OPM 19,9%, NPM 12,5% |
+| Likuiditas | ⭐⭐⭐⭐⭐ | CR 2,21x, Kas Rp 42,9T - Sangat Kuat |
+| Solvabilitas | ⭐⭐⭐⭐⭐ | DER 0,85x - Sangat Konservatif |
+| Efisiensi | ⭐⭐⭐⭐ | Biaya administrasi turun 5,66% |
+| Growth | ⭐⭐⭐ | Penjualan +4,65%, Laba -7,46% |
+| Arus Kas | ⭐⭐⭐⭐ | OCF Rp 10,4T - Kuat dan Stabil |
 
-**OVERALL RATING: ⭐⭐⭐⭐ (4/5) - SEHAT**
+**OVERALL RATING: ⭐⭐⭐⭐ (4/5) - SEHAT & KUAT**
 
-### B. Keputusan yang Diambil:
+### B. Highlight Positif:
+
+1. ✅ Total Aset tumbuh 6,32% menjadi Rp 214,5 Triliun
+2. ✅ Ekuitas tumbuh 6,60% menjadi Rp 116,2 Triliun
+3. ✅ Penjualan tumbuh 4,65% menjadi Rp 91,0 Triliun (9M)
+4. ✅ Laba Usaha tumbuh 12,46% menjadi Rp 18,1 Triliun
+5. ✅ Kas sangat kuat Rp 42,9 Triliun
+6. ✅ Current Ratio excellent 2,21x
+7. ✅ Leverage konservatif (DER 0,85x)
+
+### C. Area yang Perlu Perhatian:
+
+1. ⚠️ Laba bersih turun 7,46% akibat beban keuangan naik 63%
+2. ⚠️ Penghasilan keuangan turun 48,84%
+3. ⚠️ Beban pokok penjualan naik 6,06% (lebih tinggi dari penjualan)
+4. ⚠️ Utang jangka pendek naik signifikan
+
+### D. Keputusan yang Diambil:
 
 | No | Keputusan | PIC | Timeline |
 |----|-----------|-----|----------|
-| 1 | Lanjutkan refinancing Rp 12T di 2024 | Treasury | Q1 2024 |
-| 2 | Maintain DER di bawah 1,0x | CFO | Ongoing |
-| 3 | Tingkatkan hedging USD exposure ke 80% | Treasury | Q1 2024 |
-| 4 | Review investasi agribisnis yang IRR < WACC | Investment | Q2 2024 |
-| 5 | Siapkan contingency plan untuk covenant breach | Risk & Compliance | Q1 2024 |
-| 6 | Optimasi modal kerja (reduce DSO) | Finance | Ongoing |
+| 1 | Evaluasi strategi hedging beban keuangan | Treasury | Q4 2025 |
+| 2 | Refinancing utang jk pendek ke jk panjang | CFO & Treasury | Q1 2026 |
+| 3 | Maintain DER di bawah 1,0x | CFO | Ongoing |
+| 4 | Optimasi biaya produksi & bahan baku | COO | Q4 2025 |
+| 5 | Review pricing & margin per segmen | Investment | Q4 2025 |
+| 6 | Tingkatkan hedging USD ke 80% | Treasury | Q4 2025 |
 
-### C. Risk Watch List:
+### E. Risk Watch List Q4 2025:
 
-1. ⚠️ **Volatilitas harga CPO** - Monitor harga dan hedging
-2. ⚠️ **FX exposure** - USD/IDR volatility concern
-3. ⚠️ **Isu ESG palm oil** - Potential customer/investor pushback
-4. ⚠️ **Persaingan ICBP** - Monitor market share
-
-### D. Next Steps:
-
-1. Presentasi ke Board of Directors dalam 2 minggu
-2. Update quarterly monitoring dashboard
-3. Review kembali dalam 3 bulan
+1. ⚠️ **Beban keuangan** - Monitor kenaikan lebih lanjut
+2. ⚠️ **Volatilitas USD/IDR** - Eksposur USD signifikan
+3. ⚠️ **Harga komoditas** - Gandum, CPO
+4. ⚠️ **Margin kontraksi** - COGS naik lebih cepat dari penjualan
 
 ---
 
@@ -489,6 +507,10 @@ TOTAL: ~Rp 58 T (excluding trade payables & non-debt liabilities)
 
 ---
 
-*Dokumen ini disiapkan untuk keperluan analisis internal manajemen keuangan PT Indofood Sukses Makmur Tbk.*
+*Dokumen ini disiapkan berdasarkan Laporan Keuangan Konsolidasian Interim PT Indofood Sukses Makmur Tbk per 30 September 2025 (tidak diaudit).*
 
-**Disclaimer:** Data yang digunakan dalam analisis ini berdasarkan laporan keuangan publik tahun 2023 dan estimasi industri. Untuk keperluan pengambilan keputusan investasi, silakan merujuk pada laporan keuangan resmi yang telah diaudit.
+**Sumber Data:** 
+- Laporan Keuangan Konsolidasian Interim 30 September 2025
+- https://indopremier.com/xdir/news/LAPORAN%20KEUANGAN/2025/q3/INDF_Q3_2025.pdf
+
+**Disclaimer:** Data yang digunakan dalam analisis ini berdasarkan laporan keuangan interim Q3 2025 yang belum diaudit. Untuk keperluan pengambilan keputusan investasi, silakan merujuk pada laporan keuangan resmi yang telah diaudit.
